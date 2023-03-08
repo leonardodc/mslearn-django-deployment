@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/a01fe095-5f28-4fd7-9b72-06b5b98b33a4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/shelter-demo-walkthrough-leodc",
-    "appService.deploySubpath": "."
+    "appService.defaultWebAppToDeploy": "/subscriptions/a01fe095-5f28-4fd7-9b72-06b5b98b33a4/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/mslearn-deploy1",
+    "appService.deploySubpath": "starter\\project"
 }
